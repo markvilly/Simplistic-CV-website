@@ -10,6 +10,9 @@ hr {
     width: 6%;
 }
 
+img{
+    border-radius: 100%;    
+}
 h1 {
     color: #66BFBF;
 }
